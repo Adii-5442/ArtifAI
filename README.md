@@ -2,8 +2,6 @@
 
 ![Project Logo](assets/images/logo.png)
 
-## Slogan
-
 **"Where AI meets imagination!"**
 
 ## Introduction
